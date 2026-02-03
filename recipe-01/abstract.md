@@ -1,3 +1,3 @@
-These recipes show how to run CMake to configure and build a simple project.
-The project consists of a single source file for a single executable.  The same
-project is presented in C++, C and Fortran 90.
+In this recipe, we demonstrate how to use CMake to detect the operating system
+with an example that does not require compilation of any source code. For
+simplicity, we only consider the configuration step.
